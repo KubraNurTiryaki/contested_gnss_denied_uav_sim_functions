@@ -1,5 +1,8 @@
-# KUBRA NUR TIRYAKI
-# orbslam3-droidcam-noetic
+# GNSS'siz İHA Navigasyonu – ORB-SLAM3 (ROS Noetic)
+
+GNSS'siz ortamda İHA konumlama denemeleri için ORB-SLAM3 tabanlı ROS çalışma alanı: görsel ve görsel-ataletsel SLAM, Gazebo simülasyonu ve açık veri setleri (EuRoC, KITTI, TUM-VI, NTU VIRAL).
+
+## orbslam3-droidcam-noetic
 ROS Noetic üzerinde ORB-SLAM3 (Monocular) + DroidCam (telefon kamerası) ile çalışan örnek kurulum/çalıştırma akışı.
 
 Bu repo; telefon kamerasını MJPEG üzerinden ROS topic’ine çevirme, kamera kalibrasyonu alma, ORB-SLAM3 monocular çalıştırma ve monocular “ölçek belirsizliği” için ölçüm + pose ölçekleme araçlarını içerir.
